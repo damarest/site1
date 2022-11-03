@@ -225,11 +225,7 @@
                                 <input type="text" name=telefone>
 								 CPF:
                                 <input type="text" name=cpf>
-								 Opção:
-								<select name=opcao>
-								<option value=aluguel>Aluguel
-								<option value=venda>Venda
-								</select> <br> <br>
+								<br>
                                 <input type="submit" value="enviar"> 
                             </form>
                          </div> 

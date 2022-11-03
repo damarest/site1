@@ -133,13 +133,13 @@
 						
                             <div>
                                 
-                                <strong>$1.000 Aluguel</strong>
+                                <strong>$4000.000,00 Compra</strong>
                                 
-                                <p>Apartamentos com 2 dormitorios para alugar,
-                                   ótimo apartamento, com sala espaçosa, cozinha
-								   com armários, Área de serviço, dois quartos, e
+                                <p>Ótimos apartamentos com 2 dormitorios,
+                                   com sala espaçosa, cozinha,
+								   com armários, Área de serviço e
 								   com duas vagas de garagem.
-                                   <br>Compra a vista 35.000, também parcelamos em até 40x sem juros de 870.00 		</p>
+                          		</p>
                                <button><a href="cadastro.php" class="text-capitalize">Cadastro</a></button> 
                             </div>
                         </div>
@@ -258,9 +258,9 @@
                       <div class="col-lg-4 col-md-6 col-12">
 		 			  
                             <h3>Endereço:</h3>
-                                
+                                Avenida Caminho do Sonho, 200,  Campos Dos Goytacazes/RJ
+
                                 <br>
-                                
                                 +55 22 98786546<br>
                                 mdps@gmail.com
 							
