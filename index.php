@@ -72,7 +72,7 @@
                     </div>
                 </div>
                 <div class="h-slider roboto-font-family welcome d-flex align-items-center justify-content-center"> 
-                    <h1 class="text-capitalize">Bem-Vindos! <br><b>Prédio </b></h1>
+                    <h1 class="text-capitalize">Bem-Vindos! <br><span><b>Prédio MDPS</b></span></h1>
                   <!-- <div id="headerslider" class="carousel slide" data-ride="carousel"> -->
                     <!--  <div class="carousel-inner"> -->
                       <!--  <div class="carousel-item carousel-three active"></div> -->
