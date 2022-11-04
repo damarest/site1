@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="PT-BR">
+	 <meta charset="UTF-8">
     <head>
-	    <meta charset="UTF-8"> 
+	    
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Prédio MDPS</title>
-	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
+	   
 		
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/fontawesome.min.css">
@@ -31,7 +32,7 @@
                         </li>
                         <li class="nav-item dropdown">
                           <!--  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Caracteri­sticas
+                                Caracteristicas
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="#">link</a>
@@ -67,11 +68,11 @@
                 <div class="row">
                     <div class="col-lg-4 col-12 lobster-font-family d-flex align-items-center">
                         <h2> <font color=#DEEFE7> Colecione bons momentos com a gente!</h2> </font>
-                      <!--  <button><a href="#">sobre o prÃ©dio</a></button> -->
+                      <!--  <button><a href="#">sobre o prédio</a></button> -->
                     </div>
                 </div>
                 <div class="h-slider roboto-font-family welcome d-flex align-items-center justify-content-center"> 
-                    <h1 class="text-capitalize">Bem-Vindos! <br><span><b>Prédio MDPS</span></b></h1>
+                    <h1 class="text-capitalize">Bem-Vindos! <br><b>Prédio MDPS</b></h1>
                   <!-- <div id="headerslider" class="carousel slide" data-ride="carousel"> -->
                     <!--  <div class="carousel-inner"> -->
                       <!--  <div class="carousel-item carousel-three active"></div> -->
