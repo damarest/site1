@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="PT-BR">
     <head>
-        <meta charset="UFT-8"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>PrÈdio MDPS</title>
+        <title>Pr√©dio MDPS</title>
 		
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/fontawesome.min.css">
@@ -23,14 +22,14 @@
                 <div class="collapse navbar-collapse" id="show-menu"> 
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="#home">InÌcio <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="#home">In√≠cio <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#room">Quartos</a>
                         </li>
                         <li class="nav-item dropdown">
                           <!--  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Caracteri≠sticas
+                                Caracteri¬≠sticas
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="#">link</a>
@@ -66,11 +65,11 @@
                 <div class="row">
                     <div class="col-lg-4 col-12 lobster-font-family d-flex align-items-center">
                         <h2> <font color=#DEEFE7> Colecione bons momentos com a gente!</h2> </font>
-                      <!--  <button><a href="#">sobre o pr√©dio</a></button> -->
+                      <!--  <button><a href="#">sobre o pr√É¬©dio</a></button> -->
                     </div>
                 </div>
                 <div class="h-slider roboto-font-family welcome d-flex align-items-center justify-content-center"> 
-                    <h1 class="text-capitalize">Bem-Vindos! <br><span><b>PrÈdio MDPS</span></b></h1>
+                    <h1 class="text-capitalize">Bem-Vindos! <br><span><b>Pr√©dio MDPS</span></b></h1>
                   <!-- <div id="headerslider" class="carousel slide" data-ride="carousel"> -->
                     <!--  <div class="carousel-inner"> -->
                       <!--  <div class="carousel-item carousel-three active"></div> -->
@@ -94,7 +93,7 @@
         <br> <br>
         <div class="about lobster-font-family">
             <div class="container">
-                <h2 class="text-center text-capitalize">Sobre O Nosso PrÈdio</h2>
+                <h2 class="text-center text-capitalize">Sobre O Nosso Pr√©dio</h2>
 				<img src="imgs/shape.png">
 				<table width=150%>
 				 <tr>
@@ -105,10 +104,10 @@
                     <div class="col-lg-6 col-12">
                         <h4>O melhor lugar para curtir sua vida</h4> 
                         <p>Todo mundo precisa de um lugar para recarregar as baterias. <br> 
-						O MDPS È uma excelente opÁ„o para descansar e se renovar.<br> 
-						Conhecido por seu ambiente familiar e pela proximidade de Ûtimos restaurantes e de atraÁıes famosas,<br> 
-						o MDPS faz com que seja f·cil desfrutar o melhor de Campos dos Goytacazes. </p>
-                        <button><a href="informacoes.html">Consulte mais informaÁıes</a></button>
+						O MDPS √© uma excelente op√ß√£o para descansar e se renovar.<br> 
+						Conhecido por seu ambiente familiar e pela proximidade de √≥timos restaurantes e de atra√ß√µes famosas,<br> 
+						o MDPS faz com que seja f√°cil desfrutar o melhor de Campos dos Goytacazes. </p>
+                        <button><a href="informacoes.html">Consulte mais informa√ß√µes</a></button>
 						
                     </div> 
                     <div class="col-lg-6 col-12">
@@ -135,9 +134,9 @@
                                 
                                 <strong>$4000.000,00 Compra</strong>
                                 
-                                <p>”timos apartamentos com 2 dormitorios,
-                                   com sala espaÁosa, cozinha,
-								   com arm·rios, ¡rea de serviÁo e
+                                <p>√ìtimos apartamentos com 2 dormitorios,
+                                   com sala espa√ßosa, cozinha,
+								   com arm√°rios, √Årea de servi√ßo e
 								   com duas vagas de garagem.
                           		</p>
                                <button><a href="cadastro.php" class="text-capitalize">Cadastro</a></button> 
@@ -188,14 +187,14 @@
                 <div class="carousel-caption d-block">
                     <img src=imgs/senhor.jpg>
                   <h5>Romeu</h5>
-                  <p> Um lugar muito acolhedor, adorei o espaÁo e os movÈis. </p>
+                  <p> Um lugar muito acolhedor, adorei o espa√ßo e os mov√©is. </p>
                 </div>
               </div>
               <div class="carousel-item">
                 <div class="carousel-caption d-block">
                     <img src="imgs/senhora.jpg">
                   <h5>Maria</h5>
-                  <p> Adorei o prÈdio! A cozinha È linda o quarto È maravilhoso. </p>
+                  <p> Adorei o pr√©dio! A cozinha √© linda o quarto √© maravilhoso. </p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -244,7 +243,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 col-md-6 col-12">
-						<img src="imgs/PrÈdio.gif" width=300 />
+						<img src="imgs/Pr√©dio.gif" width=300 />
                           <!--  <h3>links</h3>
                             <ul class="text-capitalize">
                                 <li><a href="#">Casa</a></li>
@@ -257,7 +256,7 @@
 						
                       <div class="col-lg-4 col-md-6 col-12">
 		 			  
-                            <h3>EndereÁo:</h3>
+                            <h3>Endere√ßo:</h3>
                                 Avenida Caminho do Sonho, 200,  Campos Dos Goytacazes/RJ
 
                                 <br>
@@ -285,7 +284,7 @@
         </footer>
         
       <!--  <div class="copyright noto-font-family">
-            <p>¬© 2019 All Rights Reserved. Design by <a href="https://html.design/">Free Html Templates</a></p>
+            <p>√Ç¬© 2019 All Rights Reserved. Design by <a href="https://html.design/">Free Html Templates</a></p>
         </div>
         -->
         <script src="js/jquery-3.3.1.min.js"></script>
